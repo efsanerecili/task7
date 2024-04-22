@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rcili\\source\\repos\\ConsoleApp29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0951E-2D92-469C-8031-7A96B39DC079}|ConsoleApp29\\ConsoleApp29.csproj|c:\\users\\rcili\\source\\repos\\consoleapp29\\consoleapp29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D0951E-2D92-469C-8031-7A96B39DC079}|ConsoleApp29\\ConsoleApp29.csproj|solutionrelative:consoleapp29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0951E-2D92-469C-8031-7A96B39DC079}|ConsoleApp29\\ConsoleApp29.csproj|c:\\users\\rcili\\source\\repos\\consoleapp29\\consoleapp29\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D0951E-2D92-469C-8031-7A96B39DC079}|ConsoleApp29\\ConsoleApp29.csproj|solutionrelative:consoleapp29\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\rcili\\source\\repos\\ConsoleApp29\\ConsoleApp29\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp29\\Person.cs",
+              "ToolTip": "C:\\Users\\rcili\\source\\repos\\ConsoleApp29\\ConsoleApp29\\Person.cs",
+              "RelativeToolTip": "ConsoleApp29\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:44:01.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rcili\\source\\repos\\ConsoleApp29\\ConsoleApp29\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp29\\Program.cs",
+              "ToolTip": "C:\\Users\\rcili\\source\\repos\\ConsoleApp29\\ConsoleApp29\\Program.cs",
+              "RelativeToolTip": "ConsoleApp29\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:39:14.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
